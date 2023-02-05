@@ -1,7 +1,7 @@
 ## Portfólio
 
-Neste  repositório apresento para vocês meu portfólio
+Neste  repositório apresento a vocês meu portfólio
 
-No mesmo vocÊ encontra  curiosidades sobre mim e os projetos que realizaei pela Trybe.
+No mesmo você encontra  curiosidades sobre mim e os projetos que realizei pela Trybe.
 
 Vem conferir!!!
